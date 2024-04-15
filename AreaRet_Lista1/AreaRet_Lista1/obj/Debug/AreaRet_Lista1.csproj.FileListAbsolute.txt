@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\AreaRet_Lista1\AreaRet_Lista1\bin\Debug\AreaRet_Lista1.exe.config
+C:\Users\aluno\source\repos\AreaRet_Lista1\AreaRet_Lista1\bin\Debug\AreaRet_Lista1.exe
+C:\Users\aluno\source\repos\AreaRet_Lista1\AreaRet_Lista1\bin\Debug\AreaRet_Lista1.pdb
+C:\Users\aluno\source\repos\AreaRet_Lista1\AreaRet_Lista1\obj\Debug\AreaRet_Lista1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\AreaRet_Lista1\AreaRet_Lista1\obj\Debug\AreaRet_Lista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\AreaRet_Lista1\AreaRet_Lista1\obj\Debug\AreaRet_Lista1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\AreaRet_Lista1\AreaRet_Lista1\obj\Debug\AreaRet_Lista1.exe
+C:\Users\aluno\source\repos\AreaRet_Lista1\AreaRet_Lista1\obj\Debug\AreaRet_Lista1.pdb
