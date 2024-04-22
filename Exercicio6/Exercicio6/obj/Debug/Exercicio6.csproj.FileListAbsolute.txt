@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Exercicio6\Exercicio6\bin\Debug\Exercicio6.exe.config
+C:\Users\aluno\source\repos\Exercicio6\Exercicio6\bin\Debug\Exercicio6.exe
+C:\Users\aluno\source\repos\Exercicio6\Exercicio6\bin\Debug\Exercicio6.pdb
+C:\Users\aluno\source\repos\Exercicio6\Exercicio6\obj\Debug\Exercicio6.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Exercicio6\Exercicio6\obj\Debug\Exercicio6.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Exercicio6\Exercicio6\obj\Debug\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Exercicio6\Exercicio6\obj\Debug\Exercicio6.exe
+C:\Users\aluno\source\repos\Exercicio6\Exercicio6\obj\Debug\Exercicio6.pdb
