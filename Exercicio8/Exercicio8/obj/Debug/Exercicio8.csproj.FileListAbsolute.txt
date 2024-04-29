@@ -1,0 +1,8 @@
+C:\plboni2\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe.config
+C:\plboni2\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe
+C:\plboni2\Exercicio8\Exercicio8\bin\Debug\Exercicio8.pdb
+C:\plboni2\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csproj.AssemblyReference.cache
+C:\plboni2\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csproj.SuggestedBindingRedirects.cache
+C:\plboni2\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csproj.CoreCompileInputs.cache
+C:\plboni2\Exercicio8\Exercicio8\obj\Debug\Exercicio8.exe
+C:\plboni2\Exercicio8\Exercicio8\obj\Debug\Exercicio8.pdb
