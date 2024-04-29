@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Exercico9\Exercico9\bin\Debug\Exercico9.exe.config
+C:\Users\aluno\source\repos\Exercico9\Exercico9\bin\Debug\Exercico9.exe
+C:\Users\aluno\source\repos\Exercico9\Exercico9\bin\Debug\Exercico9.pdb
+C:\Users\aluno\source\repos\Exercico9\Exercico9\obj\Debug\Exercico9.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Exercico9\Exercico9\obj\Debug\Exercico9.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Exercico9\Exercico9\obj\Debug\Exercico9.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Exercico9\Exercico9\obj\Debug\Exercico9.exe
+C:\Users\aluno\source\repos\Exercico9\Exercico9\obj\Debug\Exercico9.pdb
